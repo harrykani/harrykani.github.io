@@ -8,6 +8,7 @@ h1, h2 {
 h1 {
     color: #44b466;
     font-size: 40px;
+    margin-bottom: 28px;
 }
 
 h2 {
@@ -19,8 +20,8 @@ h2 {
 #box {
     padding-left: 40px;
     padding-right: 47px;
-    padding-top: 21px;
-    padding-bottom: 10px;
+    padding-top: 42px;
+    padding-bottom: 44px;
     display: inline-block;
     background-color: #3A4042;
     left: 91px;

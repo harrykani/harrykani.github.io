@@ -12,12 +12,9 @@ nav{
 }
 
 a { 
+    color: #fff;
+    text-decoration: none;
     display: inline-flex;
     align-items: center;
-    color: #fff;     
-    font-size: 20px;
-    font-family: "Fira Code", Arial, Helvetica, sans-serif, monospace; 
-    font-weight: 500;
-    text-decoration: none;
     margin-right: 30px;
 }

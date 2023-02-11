@@ -1,20 +1,20 @@
-a, a:before, .button {
+.nav, .nav:before, .button {
     transition: 0.3s;
 }
 
-a:before, .button {
+.nav:before, .button {
     background-color: #44b466;
 }
 
-a:hover {
+.nav:hover {
     transform: scale(1.1);
 }
 
-a:hover::before, .button:hover {
+.nav:hover::before, .button:hover {
     background-color: #eb5439;
 }
 
-a:before {
+.nav:before {
     content: "";
     height: 10px;
     width: 10px;
@@ -27,9 +27,18 @@ a:before {
     padding: 17px 14px;
     box-shadow: 5px 5px 0px #000;
     margin-right: 0px;
+    color: #fff;     
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
 }
 
 .button:hover {
     transform:scaleX(1.08);
     box-shadow: 3px 4px 3px #000;
+}
+
+#b1 {
+    margin-top: 338px;
+    margin-left: 181px;
 }
