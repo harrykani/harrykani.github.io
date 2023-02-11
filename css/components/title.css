@@ -1,7 +1,7 @@
 h1, h2 {
     font-family: 'Press Start 2P', Arial, Helvetica, sans-serif;
     text-shadow: 4px 4px 0px #000;
-    text-align: center;
+    text-align: inherit;
 }
 
 
@@ -13,14 +13,20 @@ h1 {
 h2 {
     color: #fff;
     font-size: 30px;
+    width: 540px;
 }
 
-section {
+#box {
+    padding-left: 40px;
+    padding-right: 47px;
+    padding-top: 21px;
+    padding-bottom: 10px;
+    display: inline-block;
     background-color: #3A4042;
-    position: absolute;
-    width: 627px;
-    height: 184px;
     left: 91px;
     top: 196px;
+    position: absolute;
     box-shadow: 10px 10px 0px;
+    text-align: center;
 } 
+
