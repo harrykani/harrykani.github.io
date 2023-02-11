@@ -1,0 +1,26 @@
+h1, h2 {
+    font-family: 'Press Start 2P', Arial, Helvetica, sans-serif;
+    text-shadow: 4px 4px 0px #000;
+    text-align: center;
+}
+
+
+h1 {
+    color: #44b466;
+    font-size: 40px;
+}
+
+h2 {
+    color: #fff;
+    font-size: 30px;
+}
+
+section {
+    background-color: #3A4042;
+    position: absolute;
+    width: 627px;
+    height: 184px;
+    left: 91px;
+    top: 196px;
+    box-shadow: 10px 10px 0px;
+} 
