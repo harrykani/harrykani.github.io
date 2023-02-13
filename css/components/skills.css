@@ -1,10 +1,12 @@
 .skills-sec {
     background-color: #44b466;
-    height: 730px;
+    height: 750px;
+    border-bottom: 10px solid #000;
 }
 
 .wrapper-nav {
     padding-top: 50px;
     margin-left: 599px;
+    padding-bottom: 60px;
 }
 

@@ -1,0 +1,27 @@
+.wrapper-skills {
+    display: inline-flex;
+    margin-left: 500px;
+    padding-bottom: 50px;
+}
+
+.tech {
+    display: block;
+    font-family: 'Press Start 2P';
+    color: #fff;
+    font-size: 25px;
+    margin-top: 5px;
+    margin-left: 25.73px;
+    margin-bottom: 16px;
+}
+
+.bar {
+    background-color: #fff;
+    content: "";
+    height: 40px;
+    width: 320px;
+    border: 5px solid #000000;
+    position: absolute;
+    margin-left: 110px;
+    margin-top: 38px;
+
+}
