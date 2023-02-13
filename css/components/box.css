@@ -1,0 +1,15 @@
+.box {
+    padding-left: 40px;
+    padding-right: 47px;
+    padding-top: 42px;
+    padding-bottom: 44px;
+    display: inline-block;
+    background-color: #3A4042;
+    left: 91px;
+    top: 196px;
+    position: absolute;
+    box-shadow: 10px 10px 0px;
+    text-align: center;
+} 
+
+
