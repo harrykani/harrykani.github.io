@@ -1,0 +1,32 @@
+
+.skill-bar {
+    background-color: #fff;
+    content: "";
+    height: 40px;
+    width: 320px;
+    border: 5px solid #000000;
+    position: absolute;
+    margin-left: 110px;
+    margin-top: 38px;
+}
+
+.bar-fill {
+    height: 40px;
+    background-color: #3f3cff ;
+}
+
+#html-fill {
+    width: 220px;
+}
+
+#css-fill {
+    width: 170px;
+}
+
+#js-fill {
+    width: 1px;
+}
+
+#react-fill {
+    width: 1px;
+}

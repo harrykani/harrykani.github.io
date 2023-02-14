@@ -1,4 +1,4 @@
-.action { 
+.nav-button { 
     color: #fff;
     text-decoration: none;
     display: inline-flex;
@@ -8,21 +8,21 @@
 }
 
 
-.action:hover {
+.nav-button:hover {
     transform: scale(1.1);
     text-shadow: 0px 0px 5px #000;
 }
 
-.action:before {
+.nav-button:before {
     content: "";
     height: 10px;
     width: 10px;
     margin-right: 10px;
-    background-color: #44b466;
+    background-color: #973cff;
     transition: 0.3s;
 }
 
-.action:hover::before {
-    background-color: #eb5439;
+.nav-button:hover::before {
+    background-color: #3f3cff;
     box-shadow: 0px 0px 3px #000;
 }

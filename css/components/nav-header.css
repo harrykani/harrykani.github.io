@@ -1,7 +1,7 @@
-.header {
+.nav-header {
     display: flex;
     justify-content: space-between  ;
-    background-color: #5e7899;
+    background-color: #242424;
     width: 1440px 100%;
     border-bottom: 10px solid #000;
     padding: 10px 20px;
